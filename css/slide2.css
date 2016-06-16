@@ -1,0 +1,9 @@
+.swiper-slide2{background:url(../img/2.png) no-repeat center center;background-size:cover;}
+		.frame{position:absolute;top:0%;left:0%;width:95%;height:95%;margin:3% 2%;z-index:4;}
+		.frame2{position:absolute;top:0%;left:0%;width:100%;height:100%;z-index:3;}
+		.frame3{position:absolute;bottom:6%;left:10%;width:35%;height:10%;z-index:5;}
+		.frame4{position:absolute;top:8%;left:12%;width:25%;height:5%;z-index:5;}
+		.frame5{position:absolute;top:16%;left:12%;width:75%;height:5%;z-index:5;}
+		.frame6{position:absolute;top:23%;left:12%;width:45%;height:10%;z-index:5;}
+		.frame7{position:absolute;top:24%;left:48%;width:2%;height:2%;z-index:5;}
+		.frame img,.frame2 img,.frame3 img,.frame4 img,.frame5 img,.frame6 img,.frame7 img{height:100%;width:100%;}

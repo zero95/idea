@@ -1,0 +1,22 @@
+.swiper-slide5{background:url(../img/5.png) no-repeat center center;background-size:cover;}
+		.Marketplace{position:absolute;top:0%;left:0%;width:95%;height:95%;margin:3% 2%;z-index:4;}
+		.Marketplace2{position:absolute;top:0%;left:-16%;width:140%;height:100%;z-index:3;}	
+		.Marketplace3{position:absolute;top:8%;left:12%;width:25%;height:5%;z-index:5;}
+		.Marketplace4{position:absolute;top:18%;left:10%;width:45%;height:8%;z-index:5;}
+		.Marketplace5{position:absolute;top:27%;left:10%;width:65%;height:6%;z-index:5;}
+		.Marketplace6{position:absolute;top:32%;left:43%;width:12%;height:15%;z-index:5;-webkit-animation:late 1s infinite ease-in-out;animation:late 1s infinite ease-in-out;-moz-animation:late 1s infinite ease-in-out;-ms-animation:late 1s infinite ease-in-out;-o-animation:late 1s infinite ease-in-out;}
+		@-webkit-keyframes late{
+			0%{-webkit-transform:translate(43%,32%);transform:translate(43%,32%);transform:translate(43%,32%);}
+			30%{-webkit-transform:translate(49%,35%);transform:translate(49%,35%);}
+			50%{-webkit-transform:translate(49%,25%);transform:translate(49%,25%);}
+			80%{-webkit-transform:translate(24%,35%);transform:translate(24%,35%);}
+			100%{-webkit-transform:translate(24%,25%);transform:translate(24%,25%);}
+		}
+		.Marketplace7{position:absolute;top:34%;left:5%;width:38%;height:30%;z-index:5;}
+		.Marketplace8{position:absolute;top:54%;left:7%;width:42%;height:40%;z-index:5;}
+		.Marketplace9{position:absolute;top:54%;left:47%;width:10%;height:12%;z-index:5;}
+		.Marketplace10{position:absolute;top:11%;right:10%;width:20%;height:16%;z-index:5;}
+		.Marketplace11{position:absolute;top:42%;right:5%;width:38%;height:16%;z-index:5;}
+		.Marketplace12{position:absolute;top:52%;right:4%;width:27%;height:20%;z-index:5;}
+		.Marketplace13{position:absolute;bottom:8%;right:12%;width:38%;height:29%;z-index:5;}
+		.Marketplace img,.Marketplace2 img,.Marketplace3 img,.Marketplace4 img,.Marketplace5 img,.Marketplace6 img,.Marketplace7 img,.Marketplace8 img,.Marketplace9 img,.Marketplace10 img,.Marketplace11 img,.Marketplace12 img,.Marketplace13 img,.Marketplace14 img{height:100%;width:100%;}

@@ -1,0 +1,8 @@
+.swiper-slide1{width:100%;height:100%;background:url(../img/1.png) no-repeat center center;background-size:cover;position:relative;}
+
+		.obscure{position:absolute;left:-30%;bottom:0;width:100%;height:70%;z-index:1;}
+		.obscure2{position:absolute;left:40%;top:10%;width:16%;height:8%;z-index:2;}
+		.obscure3{position:absolute;left:14%;top:22%;width:70%;height:16%;z-index:2;}
+		.obscure4{position:absolute;left:20%;top:44%;width:60%;height:11%;z-index:2;}
+		.obscure img{height:115%;width:150%;}
+		.obscure2 img,.obscure3 img,.obscure4 img{width:100%;height:100%;}

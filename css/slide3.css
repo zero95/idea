@@ -1,0 +1,14 @@
+.swiper-slide3{background:url(../img/3.png) no-repeat center center;background-size:cover;}
+		.design{position:absolute;bottom:0%;right:0%;width:100%;height:40%;z-index:4;}
+		.design1{position:absolute;top:8%;left:12%;width:25%;height:5%;z-index:5;}
+		.design2{position:absolute;top:16%;left:12%;width:75%;height:5%;z-index:5;}
+		.design3{position:absolute;top:23%;left:10%;width:70%;height:5%;z-index:5;}
+		.design4{position:absolute;top:29%;left:12%;width:60%;height:2%;z-index:5;}
+		.design5{position:absolute;top:40%;left:12%;width:25%;height:15%;z-index:5;}
+		.design6{position:absolute;top:40%;left:37%;width:25%;height:15%;z-index:5;}
+		.design7{position:absolute;top:40%;left:62%;width:25%;height:15%;z-index:5;}
+		.design8{position:absolute;top:55%;left:12%;width:25%;height:15%;z-index:5;}
+		.design9{position:absolute;top:55%;left:37%;width:25%;height:15%;z-index:5;}
+		.design10{position:absolute;top:55%;left:62%;width:25%;height:15%;z-index:5;}
+		.design img{height:124%;width:100%;overflow:hidden;}
+		.design1 img,.design2 img,.design3 img,.design4 img,.design5 img,.design6 img,.design7 img,.design8 img,.design9 img,.design10 img{height:100%;width:100%;}

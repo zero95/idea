@@ -1,0 +1,11 @@
+.swiper-slide4{background:url(../img/4.png) no-repeat center center;background-size:cover;}
+		.model{position:absolute;top:0%;left:0%;width:95%;height:95%;margin:3% 2%;z-index:4;}
+		.model2{position:absolute;top:0%;left:-16%;width:140%;height:100%;z-index:3;}
+		.model3{position:absolute;bottom:6%;left:10%;width:35%;height:10%;z-index:5;}
+		.model4{position:absolute;bottom:-7%;right:-9%;width:70%;height:76%;z-index:5;}
+		.model5{position:absolute;top:8%;left:12%;width:25%;height:5%;z-index:5;}
+		.model6{position:absolute;top:18%;left:12%;width:35%;height:5%;z-index:5;}
+		.model7{position:absolute;top:25%;left:10%;width:60%;height:10%;z-index:5;}
+		.model8{position:absolute;top:38%;left:10%;width:54%;height:5%;z-index:5;}
+		.model9{position:absolute;top:46%;left:10%;width:35%;height:10%;z-index:5;}
+		.model img,.model2 img,.model3 img,.model4 img,.model5 img,.model6 img,.model7 img,.model8 img,.model9 img{height:100%;width:100%;}
